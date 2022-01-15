@@ -1,0 +1,16 @@
+{
+  "name": "vedovelli-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:anddersonrds/vedovelli-study.git",
+  "author": "Anderson Rodrigues <anddersonrds@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest ---watch"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.7"
+  }
+}
